@@ -22,8 +22,8 @@ A powerful Retrieval-Augmented Generation (RAG) chatbot that allows you to uploa
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd RAG-Chatbot
+git clone https://github.com/siddiqzayn/askRAG.git
+cd askRAG
 ```
 
 ### 2. Set Up Environment Variables
